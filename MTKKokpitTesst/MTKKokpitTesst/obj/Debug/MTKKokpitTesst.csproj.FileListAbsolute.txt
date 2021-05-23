@@ -1,0 +1,10 @@
+C:\Users\mtkew\source\repos\MTKKokpitTesst\MTKKokpitTesst\bin\Debug\MTKKokpitTesst.exe.config
+C:\Users\mtkew\source\repos\MTKKokpitTesst\MTKKokpitTesst\bin\Debug\MTKKokpitTesst.exe
+C:\Users\mtkew\source\repos\MTKKokpitTesst\MTKKokpitTesst\bin\Debug\MTKKokpitTesst.pdb
+C:\Users\mtkew\source\repos\MTKKokpitTesst\MTKKokpitTesst\obj\Debug\MTKKokpitTesst.Form1.resources
+C:\Users\mtkew\source\repos\MTKKokpitTesst\MTKKokpitTesst\obj\Debug\MTKKokpitTesst.Properties.Resources.resources
+C:\Users\mtkew\source\repos\MTKKokpitTesst\MTKKokpitTesst\obj\Debug\MTKKokpitTesst.csproj.GenerateResource.cache
+C:\Users\mtkew\source\repos\MTKKokpitTesst\MTKKokpitTesst\obj\Debug\MTKKokpitTesst.csproj.CoreCompileInputs.cache
+C:\Users\mtkew\source\repos\MTKKokpitTesst\MTKKokpitTesst\obj\Debug\MTKKokpitTesst.exe
+C:\Users\mtkew\source\repos\MTKKokpitTesst\MTKKokpitTesst\obj\Debug\MTKKokpitTesst.pdb
+C:\Users\mtkew\source\repos\MTKKokpitTesst\MTKKokpitTesst\obj\Debug\MTKKokpitTesst.csprojAssemblyReference.cache
