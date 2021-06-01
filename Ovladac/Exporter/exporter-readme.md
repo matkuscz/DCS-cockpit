@@ -11,7 +11,11 @@ https://github.com/s-d-a/DCS-ExportScripts
 https://github.com/Dirt-e/DCS-Export-Server-Simple
 
 
+- dcs BIOS
+https://dcs-bios.readthedocs.io/en/latest/index.html
 
+
+https://jboecker.github.io/dcs-witchcraft/
 
 
 
